@@ -31,7 +31,7 @@ This repository contains the **backend (API)** code, developed with **Node.js**,
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/kindlefund-backend.git
+git clone https://github.com/rsm09/kindlefund-backend.git
 
 # Navigate to backend folder
 cd kindlefund-backend
