@@ -51,6 +51,7 @@ EMAIL_PASS=your-app-password
 # Run development server
 npm run dev
 
+```
 
 ## 📡 API Routes (Sample)
 
